@@ -14,3 +14,5 @@ Knee oathorities prediction using CNN and Grad-Cam Attention Map
 
 
 # `Predictions:`
+![main_result](https://user-images.githubusercontent.com/98689629/228421142-e6fe1cca-29ad-4eab-942d-a20638da5d32.PNG)
+
