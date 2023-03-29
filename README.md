@@ -1,5 +1,5 @@
 # `knee-oathoritos-prediction.`
 
-Knee oathorities prediction using CNN and Grad-Cam attention map
+Knee oathorities prediction using CNN and Grad-Cam Attention Map
 
-The results and graphs are attached 
+# `Attention Map:`
